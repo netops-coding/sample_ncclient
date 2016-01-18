@@ -13,7 +13,7 @@ git clone git@github.com:netops-coding/sample_ncclient.git
 ```
 
 # show_junos.py
-It's code runs 'show configuration' command to JUNOS router.
+Its code runs 'show configuration' command to JUNOS router.
 
 How to run.
 
@@ -36,7 +36,7 @@ Output
 ```
 
 # set_junos.py
-It's code runs to edit following configuration command to JUNOS router.
+Its code runs editing following configuration to JUNOS router.
 
 ```
 delete interfaces xe-0/0/0 disable
